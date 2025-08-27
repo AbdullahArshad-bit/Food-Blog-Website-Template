@@ -1,0 +1,336 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.headerdiv {
+    width: 100%;
+    height: 220vh;
+    /* border: 1px solid blue; */
+    background-color: white;
+    /* margin-left: 3%; */
+}
+
+.nav-bav {
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    position: sticky;
+    /* border: 1px solid red; */
+}
+
+.food-div {
+    width: 100px;
+    height: 60px;
+    /* border: 1px solid blue; */
+    margin: auto;
+}
+
+.Food-T {
+    margin-top: 10px;
+    text-align: center;
+    font-family: Karma, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+
+.Mail-div {
+    width: 100px;
+    height: 60px;
+    /* border: 1px solid black; */
+    margin-left: 90%;
+    position: relative;
+    top: -70px;
+}
+
+.img-4-div {
+    width: 92%;
+    height: auto;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    margin-left: 4%;
+}
+
+.imgs-4 {
+    width: 23.5%;
+    height: auto;
+    /* border: 1px solid red; */
+    margin-left: 1%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sub-img {
+    width: 100%;
+    height: auto;
+    /* border: 2px solid black; */
+    margin: auto;
+}
+
+.Perfect-T {
+    text-align: center;
+    font-family: Karma, sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+
+.Just-T {
+    text-align: center;
+    margin-top: 10px;
+    font-family: Karma, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    color: rgb(0, 0, 0);
+}
+
+.line {
+    width: 95%;
+    height: 1px;
+    background-color: #FAB1B1;
+    margin-top: 50px;
+    margin-left: 2.5%;
+
+}
+
+.Se-11 {
+    width: 100%;
+    /* height: auto; */
+    margin-top: 30px;
+    background-color: white;
+}
+
+.sub-se-11 {
+    width: 95%;
+    height: auto;
+    /* border: 1px solid red; */
+    margin-left: 2.5%;
+}
+
+.Me-TT {
+    text-align: center;
+    font-family: Karma, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+
+.img-divvvv {
+    width: 65%;
+    height: auto;
+    /* border: 1px solid red; */
+    /* margin-left: 18%; */
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+.sub-se-111 {
+    width: 95%;
+    height: auto;
+    /* border: 1px solid red; */
+    margin-left: 2.5%;
+    margin-top: 10px;
+}
+
+.Me-TTt {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Karma, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.Passion {
+    text-align: center;
+    margin-top: 10px;
+    font-family: Karma, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+}
+
+.Just-T {
+    text-align: center;
+    margin-top: 10px;
+    font-family: Karma, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    color: rgb(0, 0, 0);
+}
+
+.footer-div {
+    width: 95%;
+    height: auto;
+    margin-left: 2.5%;
+    /* border: 1px solid blue; */
+    margin-top: 100px;
+}
+
+.footer-3-div {
+    width: 33%;
+    height: auto;
+    /* border: 2px solid black; */
+    display: inline-block;
+    vertical-align: top;
+    /* margin-left: 1%; */
+}
+
+.Fo-Tt {
+    font-family: Karma, sans-serif;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+
+.tincidunt-T {
+    margin-top: 20px;
+    font-family: Karma, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    color: rgb(0, 0, 0);
+}
+
+.blog-t {
+    font-family: Karma, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+
+.L-div {
+    width: 100%;
+    height: 70px;
+    /* border: 1px solid red; */
+    margin-top: 10px;
+}
+
+.L-div:hover {
+    background-color: #CCCCCC;
+}
+
+.sub-icon {
+    width: 50px;
+    height: auto;
+    margin-left: 3px;
+    margin-top: 5px;
+    /* border: 1px solid black; */
+}
+
+.L-T {
+    position: relative;
+    left: 60px;
+    top: -60px;
+    font-family: Karma, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: rgb(0, 0, 0);
+}
+
+.L-TT {
+    position: relative;
+    left: 60px;
+    top: -60px;
+    font-family: Karma, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.5px;
+    color: rgb(0, 0, 0);
+}
+
+.Popular-T {
+    font-family: Karma, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+
+.Travel-div {
+    width: 54px;
+    height: 20px;
+    background-color: #616161;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Ta-T {
+    margin-left: 4px;
+    font-family: serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: rgb(255, 255, 255);
+}
+.Travel-divv {
+    width: 54px;
+    height: 20px;
+    background-color: #616161;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:990px) {
+    .Mail-div {
+        margin-left: 85%;
+    }
+}
+
+@media (max-width:710px) {
+    .Mail-div {
+        margin-left: 73%;
+    }
+}
+
+@media (max-width:652px) {
+    .imgs-4 {
+        width: 22%;
+        margin-left: 2%;
+    }
+}
+
+@media (max-width:600px) {
+    .imgs-4 {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+@media (max-width:852px){
+    .footer-3-div{
+        width: 30%;
+        margin-left: 1%;
+    }
+}
+@media (max-width:600px){
+    .footer-3-div{
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+
